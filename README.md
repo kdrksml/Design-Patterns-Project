@@ -20,12 +20,6 @@ This project currently exists as a prototype. Key features include:
 - **Real-Time Updates**: The system updates the status of parking spots in real-time and reflects these changes in the web interface.
 - **User Interface**: A web page displays the current status of parking spots, using color coding to indicate availability.
 
-## Usage
-1. **Setup**: Place sensors or use video feed for monitoring parking spots.
-2. **Data Collection and Processing**: Collect and process occupancy data on the central server.
-3. **User Notification**: Use the web interface to monitor real-time parking spot availability.
-4. **Feedback and Optimization**: Continuously improve the system based on user feedback and data analysis.
-
 ## Future Work
 - **Sensor Integration**: Incorporate physical sensors into the system for more accurate data collection.
 - **Scalability**: Improve the system to handle larger parking lots and multiple locations.
